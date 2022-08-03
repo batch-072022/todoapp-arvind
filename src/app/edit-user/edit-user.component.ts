@@ -14,8 +14,8 @@ export class EditUserComponent implements OnInit {
   }
   user={
     id:101,
-    name:"Madhuri",
-    email:"m@gmail.com"
+    name:"Arvind",
+    email:"arvind@gmail.com"
   };
   updateUser()
   {
